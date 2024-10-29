@@ -53,7 +53,7 @@
             <div>
               <div class="pt-10 pb-3 pl-3 text-lg font-bold">
                 <a href="https://ersa.org/events/63rd-ersa-congress/" target="_blank" class="text-blue-500">
-                  63rd ERSA Congress: Regional Science Dialogues for Peace and Sustainable Development.</a>
+                  63rd ERSA Congress: Regional Science Dialogues for Peace and Sustainable Development</a>
               </div>
               <div class="pb-5 pl-3 text-md text-gray-500">
                 26-30 August, 2024, Terceira Island, Azores, Portugal 

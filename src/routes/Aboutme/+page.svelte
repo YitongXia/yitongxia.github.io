@@ -26,15 +26,15 @@
       <!-- Header -->
       <header class= "p-4">
         <div class="flex space-x-4">
-            <button on:click={navigateToHome} class="btn font-mono">Home</button>
-            <button on:click={navigateToAbout} class="btn font-mono  font-bold">
+            <button on:click={navigateToHome} class="hover-effect btn font-mono">Home</button>
+            <button on:click={navigateToAbout} class="hover-effect btn font-mono  font-bold">
               <a href="{base}/Aboutme">About me</a>
             </button>
-            <button on:click={navigateToPublication} class="btn font-mono">
+            <button on:click={navigateToPublication} class="hover-effect btn font-mono">
                 <a href="{base}/Publication">Publication</a>
             </button>
-            <button on:click={navigateToActivity} class="btn font-mono">Activity</button>
-            <button on:click={navigateToLifeMap} class="btn font-mono">Life map</button>
+            <button on:click={navigateToActivity} class="hover-effect btn font-mono">Activity</button>
+            <button on:click={navigateToLifeMap} class="hover-effect btn font-mono">Life map</button>
         </div>
     </header>
   
