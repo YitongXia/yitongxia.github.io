@@ -1,3 +1,15 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+/* 在 global.css 或 App.svelte 的 <style> 中加入以下内容 */
+
+/* 文字悬停效果 */
+.hover-effect {
+    transition: color 0.3s ease, text-decoration 0.3s ease;
+}
+
+.hover-effect:hover {
+    color: rgb(59 130 246); /* 设置悬停时的文字颜色 */
+    text-decoration: underline; /* 设置悬停时出现下划线 */
+}
