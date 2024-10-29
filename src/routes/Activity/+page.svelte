@@ -18,7 +18,7 @@
     };
 
     const navigateToLifeMap = () => {
-    window.location.href = `${base}/LifeMap`;
+    window.location.href = `${base}/Map`;
     };  
 
 
