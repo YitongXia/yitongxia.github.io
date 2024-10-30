@@ -79,10 +79,10 @@
             <p class="pt-3 pl-3 pb-3 text-lg font-bold bg-blue-100">Education:</p>
             <ul>
               <li>
-                <p class="pt-7 pl-3 pb-3 text-md">- PhD in Social Sciences & Human Geography, <a href="https://www.kuleuven.be/english/kuleuven/">KU Leuven</a>, BE (2023-present)</p>
+                <p class="pt-7 pl-3 pb-3 text-md">- PhD in Social Sciences & Human Geography, <a class="hover-effect" href="https://www.kuleuven.be/english/kuleuven/">KU Leuven</a>, BE (2023-present)</p>
               </li>
               <li>
-                <p class="pt-3 pl-3 pb-3 text-md">- <a href="https://www.tudelft.nl/onderwijs/opleidingen/masters/gm/msc-geomatics">MSc in Geomatics for the Built Environment</a>, <a href="https://www.tudelft.nl/">Delft University of Technology</a>, NL (2021-2023)</p>
+                <p class="pt-3 pl-3 pb-3 text-md">- <a class="hover-effect" href="https://www.tudelft.nl/onderwijs/opleidingen/masters/gm/msc-geomatics">MSc in Geomatics for the Built Environment</a>, <a class="hover-effect" href="https://www.tudelft.nl/">Delft University of Technology</a>, NL (2021-2023)</p>
                 <p class="pl-10 text-sm">3D modelling for the built environment, Photogrammetry and 3D computer vision, Digital terrain modelling.</p>
               </li>
               <li>
@@ -104,51 +104,4 @@
         <aside class="sticky top-0 col-span-1 hidden h-screen bg-white p-4 xl:block"> </aside>
       </div>
     </div>
-    
-    <style>
-      /* Add this CSS */
-      .typewriter {
-      
-      opacity: 0; /* Hide the text */
-      overflow: hidden; /* Ensures the text doesn’t overflow */
-      white-space: nowrap; /* Keeps text on one line */
-      border-right: 2px solid; /* Creates the cursor */
-      animation: fadeIn 0.1s forwards 0.1s, typing 3s steps(30, end) 0.1s forwards, blink-caret 0.5s step-end 3 0.1s;
-  }
-      .typewriter2 {
-        opacity: 0; /* Hide the text */
-      overflow: hidden; /* Ensures the text doesn’t overflow */
-      white-space: nowrap; /* Keeps text on one line */
-      border-right: 2px solid; /* Creates the cursor */
-      animation: fadeIn 0.1s forwards 1s, typing 3s steps(30, end) 1s forwards, blink-caret 0.5s step-end 20 1s;
-  }
   
-  
-    @keyframes fadeIn {
-      to {
-          opacity: 1; /* Fade in text after 1s */
-      }
-    
-    }
-  
-      @keyframes typing {
-      from {
-          width: 0;
-      }
-      to {
-          width: 100%;
-          border-right: none; /* Removes the cursor */
-      }
-    }
-  
-    @keyframes blink-caret {
-      from,
-      to {
-          border-color: transparent;
-      }
-      50% {
-          border-color: black;
-      }
-    }
-  
-    </style>

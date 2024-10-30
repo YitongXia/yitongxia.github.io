@@ -70,7 +70,7 @@
                 <div class="pt-20">
                   yitong.xia@kuleuven.be
                 </div>
-                <div class="pt-3">
+                <div class="pt-5">
                   <a href="https://www.kuleuven.be/english/kuleuven/" target="_blank" ><img src="KULeuven.png" alt="" style="height: 40px;"></a>
                 </div>
           </div>

@@ -49,7 +49,7 @@
         <!-- Main -->
         <main class="col-span-1 space-y-4 bg-white p-4">
           <div class="min-h-[600px] bg-white p-4 font-mono">
-            <p class="pt-3 pl-3 pb-3 text-lg font-bold bg-blue-100">Presentation and talks:</p>
+            <p class="pt-3 pl-3 pb-3 text-lg font-bold bg-blue-100">Presentations and talks:</p>
             <div>
               <div class="pt-10 pb-3 pl-3 text-lg font-bold">
                 <a href="https://ersa.org/events/63rd-ersa-congress/" target="_blank" class="text-blue-500">
@@ -74,7 +74,7 @@
                 12-14 September, 2023, Munich, Germany 
               </div>
               <div class="pl-3 text-md">
-                In this conference, Dr. Hugo presented our research:
+                In this conference, Dr. Hugo Ledoux presented our research:
                 <p class="font-bold">"cjdb: A Simple, Fast, and Lean Database Solution for the CityGML Data Model".</p>       
               </div>
             </div>
